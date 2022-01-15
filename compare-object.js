@@ -8,3 +8,5 @@ if (JSON.stringify(first) === JSON.stringify(second)) {
 } else {
     console.log("Object are diffirent");
 }
+
+
